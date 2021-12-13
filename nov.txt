@@ -3,4 +3,7 @@
 git add
 novemer data2
 3rd data
+<<<<<<< HEAD
+>>>>>>> dde90d7 (3rd data)
+=======
 >>>>>>> dde90d7 (3rd data)
